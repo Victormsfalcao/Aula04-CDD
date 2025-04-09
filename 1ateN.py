@@ -6,6 +6,7 @@ if n < 1:
     if n > 0:
         for i in range(1, n + 1, 1):
             print(i, end=" ")
+
     else:
         print("SEU ANIMAL, TEM QUE SER MAIOR QUE 0")
 
